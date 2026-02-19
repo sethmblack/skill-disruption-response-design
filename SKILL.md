@@ -3,8 +3,9 @@ name: disruption-response-design
 description: Design an organizational response to a disruptive threat, including whether to create a separate unit with different processes and priorities.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3843
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - disruption-response-design
 - structure
